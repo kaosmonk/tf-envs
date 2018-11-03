@@ -1,2 +1,2 @@
 # tf-envs
-Terraform managed environments
+Environments managed by terraform
